@@ -1,0 +1,6 @@
+psycopg2-binary==2.9.9
+fastapi==0.109.2
+pydantic[email]==2.6.1
+pydantic-settings==2.1.0
+python-multipart==0.0.9
+uvicorn==0.27.1
